@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="placeholder_name">Digite un nombre...</string>
+    <string name="placeholder_lastname">Digite un apellido...</string>
+    <string name="label_orientation">Género</string>
+    <string name="label_dob">Nacimiento</string>
+    <string name="label_like_programming">¿Le gusta programar?</string>
+    <string name="label_language">Lenguaje</string>
+
+    <string-array name="orientation_array">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro/a</item>
+    </string-array>
+    <string name="option_yes_like_programming">Sí</string>
+    <string name="option_no_like_programming">No</string>
+    <string name="label_language_java">Java</string>
+    <string name="label_language_js">JavaScript</string>
+    <string name="label_language_C_Cpp">C/C++</string>
+    <string name="label_language_python">Python</string>
+    <string name="label_language_go">Go Lang</string>
+    <string name="label_language_c_sharp">C#</string>
+    <string name="label_button_send">Enviar</string>
+    <string name="label_button_clean">Limpiar</string>
+    <string name="label_born">dd/MM/AA</string>
+</resources>
